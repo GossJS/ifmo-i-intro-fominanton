@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<myportfolio>
+	<mycompetencies>
+		<competency in="HTML" value="good" />
+		<competency in="HTML5" value="good" />
+		<competency in="CSS" value="good" />
+		<competency in="PHP" value="junior" />
+		<competency in="MySQL" value="good" />
+		<competency in="SQL" value="good" />
+	</mycompetencies>
+
+</myportfolio>
