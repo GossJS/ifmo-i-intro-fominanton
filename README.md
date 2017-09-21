@@ -3,8 +3,15 @@
 
 Адрес текста ЛР:
 https://kodaktor.ru/08092017
+<hr>
+c9.io 
+https://c9.io/fominanton
+<hr>
 
-c9.io - https://c9.io/fominanton
+Для HTML5 DTD (Document Type Definition) нет, т.к он имеет более свободный синтаксис. Документ HTML5 включает в себя декларацию `<!DOCTYPE html>`, которая сообщает браузеру версию html. 
 
+<hr>
 
-Для HTML5 DTD (Document Type Definition) нет, т.к он имеет более свободный синтаксис. Документ HTML5 включает в себя декларацию "<!DOCTYPE html>", которая сообщает браузеру версию html. 
+2.png - макет верстки 
+3.png - карта актуальных знаний 
+4.чьд - well-formed документ 
